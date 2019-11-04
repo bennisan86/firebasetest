@@ -1,2 +1,2 @@
 # firebasetest
-A testproject to get experiment with Firebase, hooks and redux in React.
+A testproject to experiment with Firebase, hooks and redux in React.
